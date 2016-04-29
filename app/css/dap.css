@@ -1,0 +1,57 @@
+/**********************************  Grid Styles ***********************************/
+.grid1,
+.grid2,
+.grid3,
+.grid3a,
+.grid4,
+.grid4a,
+.grid5,
+.grid5a,
+.grid6 {
+    float:left;
+    width:100%;
+    position:relative;
+    margin:0;
+    padding:10px 0 0 10px;
+    border:none;
+}
+
+.grid1 {width:100% !important;}
+.grid2 {width:50% !important;}
+.grid3 {width:33.33334% !important;}
+.grid3a {width:66.66667% !important;}
+.grid4 {width:25% !important;}
+.grid4a {width:75% !important;}
+.grid5 {width:20% !important;}
+.grid5a {width:80% !important;}
+.grid6 {width:16.66666666667% !important;}
+
+/************************************ imageTemplate **********************************/
+.ptTextLinksImage {
+    width:100%;
+    height:auto;
+}
+
+/*********************************** countdownTemplate classe *************************/
+.timerContainer{
+    text-align: center;
+    background-color: #000;
+    color: white;
+    border-right: 5px solid transparent;
+    clear: both;
+    height: 56px;
+    padding: 10px 0px 10px 5px;
+}
+.timerOuterCont{
+    padding: 10px 40px 10px 45px;
+    clear: both;
+    height: 75px;
+}
+
+.timerGrid{
+    padding: 0px;
+    padding-right: 5px !important;
+}
+.dhms{
+    font-size:0.6em;
+}

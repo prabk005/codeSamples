@@ -1,0 +1,64 @@
+/************************** Global Padding Classes ******************************/
+.padding5 {padding: 5px;}
+.padding10 {padding: 10px;}
+.padding20 {padding: 20px;}
+.padding25 {padding: 25px;}
+
+/*************************** Navigation Styles ***********************************/
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  color: ##9E9E9E  !important;
+}
+
+.navbar-custom {
+  background-color: #666;
+}
+
+.navbar-header > a:hover , .navbar-collapse  .navbar-nav > li > a {
+  color: #FFFFFF !important;
+}
+
+.navbar-header > a:hover , .navbar-collapse  .navbar-nav > li > a:hover {
+  color: #03E7F4 !important;  /*Sets the text hover color on navbar*/
+}
+
+.navbar-toggle .icon-bar:nth-of-type(2) {
+	  top: 1px;
+}
+
+.navbar-toggle .icon-bar:nth-of-type(3) {
+  	top: 2px;
+}
+
+.navbar-toggle .icon-bar {
+	  position: relative;
+	  transition: all 500ms ease-in-out;
+}
+
+.navbar-toggle.active .icon-bar:nth-of-type(1) {
+	  top: 6px;
+	  transform: rotate(45deg);
+}
+
+.navbar-toggle.active .icon-bar:nth-of-type(2) {
+	  background-color: transparent;
+}
+
+.navbar-toggle.active .icon-bar:nth-of-type(3) {
+	  top: -6px;
+	  transform: rotate(-45deg);
+}
+
+/******************************** Footer Styles *************************************/
+.footer {
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: #333;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 10px;
+}

@@ -1,0 +1,9 @@
+<link rel="stylesheet" type="text/css" href="../css/dap.css">
+
+<!-- DAP HTML for all templates -->
+<div style="min-height:{{minheight}}px;{{dapStyle}}">
+    <div class="tempItem" style="max-width:480px; margin:0 auto;">
+         <template-item ng-repeat="item in dapdata track by $index" dapdata="item"></template-item>
+         <br clear="all">
+    </div>
+</div>

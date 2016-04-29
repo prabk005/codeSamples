@@ -1,0 +1,64 @@
+{
+  "destinations":[
+    {
+      "location":"Tahiti",
+      "place":"",
+      "imgUrl":"images/destination_01.jpg",
+      "description": "The South Seas islands promise emerald waters, white-sand beaches, and, oh yeah, overwater bungalows. Embrace leisure with a unique banana-tree-leaf body wrap, culture on a tour of small villages, or adventure on a shark-feeding expedition. Or, simply start out the day in your overwater bungalow with breakfast delivered by canoe."
+    },
+    {
+      "location":"Australia",
+      "place":"Whitehaven Beach",
+      "imgUrl":"images/destination_02.jpg",
+      "description":"Whitehaven Beach is known for its white sands. The Beach is a 7 km stretch along Whitsunday Island. The island is accessible by boat from the mainland tourist ports of Airlie Beach and Shute Harbour, as well as Hamilton Island. The Beach was named the top Eco Friendly Beach in the world by CNN.com. Dogs are not permitted on the beach and cigarette smoking is prohibited."
+    },
+    {
+      "location":"Scotland",
+      "place":"The Fairy Pools on the Isle of Skye",
+      "imgUrl":"images/destination_03.jpg",
+      "description": "If you are backpacking in Scotland generally or are planning a trip to the Isle of Skye then I heartily recommend that you visit the so-called Fairy Pools.The Fairy Pools is located in Cuillins Hills, Isle of Skye, Scotland. The Fairy Pools are a series of clear, cold pools and waterfalls formed as Allt Coir' a' Mhadaidh tumbles down from the foothills of the Black Cuillins into Glen Brittle."
+    },
+    {
+      "location":"Grand Canyon National Park",
+      "place":"Havasu Falls",
+      "imgUrl":"images/destination_04.jpg",
+      "description": "Havasu Falls is paradise on Earth. This is an absolutely amazingly beautiful waterfall located in a remote canyon of Arizona. The spectacular waterfalls and isolated community within the Havasupai Indian Reservation attract thousands of visitors each year. The Havasupai are intimately connected to the water and the land. This blue- green water is sacred to the Havasupai."
+    },
+    {
+      "location":"Fiji",
+      "place":"The Lau Archipelago",
+      "imgUrl":"images/destination_05.jpg",
+      "description": "Most people define beauty by sunsets. In this incredible group of islands, it's the sunrises as well,\" notes Greenberg of this remote collection of 50-plus atolls and islands located 200 miles from the mainland of Fiji. The region sees few tourists, but those who make it are rewarded with a mind-blowing array of marine life and a gentle, carefree vibe. \"No phones, no Blackberries, no TVs - just the intoxicating sounds of a cappella harmonies sung by the islanders each morning and each evening,\" Greenberg adds. \"Great storytelling, and a never-ending feeling of community and love that lives with you forever."
+    },
+    {
+      "location":"New Zealand",
+      "place":"Fjordlands National Park, South Island",
+      "imgUrl":"images/destination_06.jpg",
+      "description": "Says Patricia Schultz: \"Think fjords, and one usually thinks Norway, or even Chile. But visit Milford Sound - one of the 15 fjords that make up New Zealand's largest national park - and you'll see why Rudyard Kipling claimed it as the Eighth Wonder of the World.\" Both North and South Islands stood in for Middle Earth during the filming of Tolkien's Lord of the Ring series. Watch the movie and you'll find an impressive array of landscape ranging from snow-capped mountain ranges to vast marshes. The South Island is the less inhabited of the country's two islands, meaning lots more open areas of astonishing beauty to yourself."
+    },
+    {
+      "location":"Jordan",
+      "place":"Petra",
+      "imgUrl":"images/destination_07.jpg",
+      "description": "\"With the rise of Palmyra in Syria and sea-trading routes, the death knell was sounded for Petra, ancient capital of the Nabateans,\" say the Geographic Expeditions experts. \"By the Arab invasion of the 7th century AD, Petra was a forgotten city and remained so until it was rediscovered in 1812 by the young Swiss explorer Johann Burckhardt.\" Today the elegant site, which dates back to 1200 B.C., is known as the \"Pink City\" because of the rose-hued sandstone used to create the phenomenal palaces and tombs. It's perhaps most stunning at dusk, when the ancient city is aglow with thousands of candles."
+    },
+    {
+      "location":"",
+      "place":"Midway Island",
+      "imgUrl":"images/destination_08.jpg",
+      "description": "Located about halfway between the United States and Asia, this stunning atoll is a U.S. territory known for the Battle of Midway, which played a major role in World War II; today it's home to massive albatross population, and is a designated National Wildlife Refuge. \"History lives here,\" says Greenberg. \"The site of the most decisive naval battle in world history, Midway is where I go to think, to write without interruption. If you're looking for footprints in the sand, just look behind you, because the only ones are the ones you made.\""
+    },
+    {
+      "location":"France",
+      "place":"Bordeaux",
+      "imgUrl":"images/destination_09.jpg",
+      "description": "\"Truly a beautiful location, and a wine connoisseur's delight,\" says Friedman of this historic and fertile region. It's studded with more than 7,000 wineries and bursts with sweeping vineyards, mighty rivers, gorgeous beaches and picturesque villages and the stunning city itself, which has earned Bordeaux a place in the collection of UNESCO World Heritage Sites."
+    },
+    {
+      "location":"Chile",
+      "place":"Torres del Paine National Park, Patagonia",
+      "imgUrl":"images/destination_10.jpg",
+      "description": "\"Looking across the lake from the Explora Lodge you see one of the most magnificent mountainscapes in the world,\" says Friedman, citing his favorite spot from which to take in this, one of the newest and grandest parks in South America, and a UNESCO World Heritage Reserve. The 598,000-acre park, tucked at the far south end of the Andes, offers stunning mix of landscapes and fauna, making it a gem. Say the folks at Geographic Expeditions (who had it on their shortlist, too): \"Paine's unique physical attributes of glaciers, lakes, gnarled Magellanic trees, and dramatic mountains offer some of the most awe-inspiring hiking in the world.\""
+    }
+  ]
+}

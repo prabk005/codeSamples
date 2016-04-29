@@ -1,0 +1,20 @@
+[
+    {
+        "dapStyle": "background-color:#efefef"
+    },
+    {
+        "content_type": "image",
+        "data": "images/coat-drive.jpg",
+        "altTxt": "Coat Drive",
+        "url": "/home"
+    },
+    {
+      "content_type": "copy",
+      "bodyStyle": "padding: 20px; text-align: center; font-size: 16px;",
+      "data": "<h2>Countdown to Event</h2><div>January 1, 2017</div>"
+    },
+    {
+        "content_type": "countdown",
+        "eventDate": "January 1, 2017 00:00:00"
+    }
+]

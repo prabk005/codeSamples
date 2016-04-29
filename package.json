@@ -1,0 +1,35 @@
+{
+  "name": "codeSamples",
+  "version": "1.0.0",
+  "description": "Code Samples for Review",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabk005/codeSamples.git"
+  },
+  "keywords": [],
+  "author": "Prabhdeep Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabk005/codeSamples/issues"
+  },
+  "homepage": "https://github.com/prabk005/codeSamples#readme",
+  "dependencies" : {
+    "body-parser": "~1.5.2",
+    "chart.js": "^2.0.2",
+    "express": "3.x",
+    "method-override": "~2.1.2",
+    "mongoose": "~3.6.2",
+    "morgan": "~1.2.2"
+  },
+  "devDependencies" : {
+    "body-parser": "~1.5.2",
+    "chart.js": "^2.0.2",
+    "express": "3.x",
+    "method-override": "~2.1.2",
+    "mongoose": "~3.6.2",
+    "morgan": "~1.2.2"
+  }
+}
